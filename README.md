@@ -1,6 +1,7 @@
 # Python_Diwali_Sales_Analysis_Project
 
 Objective:
+
 • Performed data cleaning and manipulation 
 • Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries 
 • Improved customer experience by identifying potential customers across different states, occupation, gender and age groups 
